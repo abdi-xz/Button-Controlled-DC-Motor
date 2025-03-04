@@ -6,11 +6,11 @@ This project demonstrates a **button-controlled DC motor system** using a **PIC1
 ---
 
 ## 📂 Project Structure
-📁 Circuit diagram/ - Contains the circuit simulation image (.png)
-📁 datasheet/ - Datasheets and compiler documentation
-📁 hex/ - Includes the compiled main.hex file for flashing
-📁 simulation/ - Proteus simulation
-📁 src/ - Contains the source code (.c and .h files)
+- 📁 Circuit diagram/ - Contains the circuit simulation image (.png)
+- 📁 datasheet/ - Datasheets and compiler documentation
+- 📁 hex/ - Includes the compiled main.hex file for flashing
+- 📁 simulation/ - Proteus simulation
+- 📁 src/ - Contains the source code (.c and .h files)
 
 ---
 
@@ -35,10 +35,10 @@ This project demonstrates a **button-controlled DC motor system** using a **PIC1
 - Microcontroller Datasheet: [Located in Datasheet/ folder]
 - CCS C Compiler Documentation: [Located in Datasheet/ folder]
 ### 🏆 Features
-✔ Button-controlled motor operation
-✔ Pre-compiled HEX file for direct flashing
-✔ Detailed circuit diagram and simulation
-✔ Well-structured C code with separate header files
+✔ - Button-controlled motor operation
+✔ - Pre-compiled HEX file for direct flashing
+✔ - Detailed circuit diagram and simulation
+✔ - Well-structured C code with separate header files
 ## **License**
 This project is licensed under the MIT License – see the LICENSE file for details
 
