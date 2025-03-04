@@ -39,8 +39,7 @@ This project demonstrates a **button-controlled DC motor system** using a **PIC1
 ✔ - Pre-compiled HEX file for direct flashing
 ✔ - Detailed circuit diagram and simulation
 ✔ - Well-structured C code with separate header files
-## **License**
-This project is licensed under the MIT License – see the LICENSE file for details
-
+## **Authors**
+This project was developed by Abdulbasit Hamid 
 
 
