@@ -1,0 +1,9 @@
+/build/
+/backup/
+*.o
+*.bin
+*.log
+*.db
+*.bak
+*.tmp
+*.hex~
